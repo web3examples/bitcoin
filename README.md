@@ -7,12 +7,12 @@ This document contains info about:
 * [Blockexplorers](#blockexplorers)
 * [Applications](#applications)
 * [Layer 2](#layer-2)
-
+* [Development tools](#development-tools)
 
 # General info
 
-| Bitcoin           | Instances                | More info (text) | More info (video) |   Install  |  Examples |
-| ---------------   |  ---------                  | ---------       | ---------          | ---------  |  -------- | 
+| Bitcoin           | Instances                
+| ---------------   |  ---------               
 | General info
 | learn programming | [programming_bitcoin]<br>[bitcoindev]<br>[learn_cmdline]
 | Bitcoin script    | [script_guide]<br>[script_lang]
@@ -64,21 +64,22 @@ This document contains info about:
 
 | Layer 2: lightning| Info
 | ---------------   | -----
-| Concepts          |
+| General info      | [lightning_res]
 | Setup             | [lightning_setup]
 
-| Development tools     | Instances                  |  More info (text) | More info (video) | Github   | Examples |
-| ---------------       |  ---------                 | ------            | --------------    | ---------| ---------|
-| General info          | [lightning_res]
-| Setup                 | [lightning_setup]
+[lightning_setup]: https://thebitcoin.pub/t/how-to-setup-a-bitcoin-lightning-network-in-4-steps/37687
+[lightning_res]: https://github.com/bcongdon/awesome-lightning-network
+
+
+# Development tools
+
+| Development tools     | Instances                  
+| ---------------       |  ---------                 
+| Setup                 | 
 | Tools                 | 
 | Programming languages | 
 | Online edit&deploy    | 
 | Deploy                | 
 | Upgrade contracts     |
 | Blockchain access     |
-
-[lightning_setup]: https://thebitcoin.pub/t/how-to-setup-a-bitcoin-lightning-network-in-4-steps/37687
-[lightning_res]: https://github.com/bcongdon/awesome-lightning-network
-
 
