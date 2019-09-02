@@ -1,16 +1,21 @@
-# bitcoin
-Examples related to bitcoin
+# Bitcoin
+
+Examples related to bitcoin. ([Home](..))
+
+This document contains info about:
+* [General info](#general-info)
+* [Blockexplorers](#blockexplorers)
+* [Applications](#applications)
+* [Layer 2](#layer-2)
 
 
+#General info
 | Bitcoin           | Instances                | More info (text) | More info (video) |   Install  |  Examples |
 | ---------------   |  ---------                  | ---------       | ---------          | ---------  |  -------- | 
 | General info
 | learn programming | [programming_bitcoin]<br>[bitcoindev]<br>[learn_cmdline]
 | Bitcoin script    | [script_guide]<br>[script_lang]
 | Libraries         | [bitcoinjs]
-
-
-
 
 [programming_bitcoin]:  https://github.com/jimmysong/programmingbitcoin
 [bitcoindev]:           https://bitcoindev.network
@@ -22,11 +27,8 @@ Examples related to bitcoin
 
 [bitcoinjs]:           https://github.com/bitcoinjs/bitcoinjs-lib#examples
 
-| Building blocks   | Instances                              | Github | Documentation |
-| ---------------   |  ---------                             | ------ | --------------|
-|...
+# Blockexplorers
 
-# blockexplorers
 | Networks        | BTC Faucet (test BTC)  | Blockexplorer 
 | --------------- |  ---------             | ------ 
 | Bitcoin main    |                        | [insight]<br>[blockchain.com]<br>[blockcypher]<br>[blockstream]<br>[smartbit]<br>[chainso]
@@ -45,6 +47,8 @@ Examples related to bitcoin
 [chainso]:          https://chain.so/btc
 [chainso_test]:     https://chain.so/testnet/btc
 
+#Applications
+
 | Bitcoin Applications | Instance              |  Github |
 | ---------------      | ---------             | ------- |
 | Hash data            | [proofofexistence]    | [proofofexistence_github]
@@ -55,7 +59,7 @@ Examples related to bitcoin
 [proofofexistence]:     https://proofofexistence.com
 [proofofexistence_github]: https://github.com/proofofexistence/proofofexistence
 
-
+#Layer 2
 
 | Layer 2: lightning| Info
 | ---------------   | -----
@@ -72,7 +76,6 @@ Examples related to bitcoin
 | Deploy                | 
 | Upgrade contracts     |
 | Blockchain access     |
-
 
 [lightning_setup]: https://thebitcoin.pub/t/how-to-setup-a-bitcoin-lightning-network-in-4-steps/37687
 [lightning_res]: https://github.com/bcongdon/awesome-lightning-network
