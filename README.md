@@ -9,7 +9,8 @@ This document contains info about:
 * [Layer 2](#layer-2)
 
 
-#General info
+# General info
+
 | Bitcoin           | Instances                | More info (text) | More info (video) |   Install  |  Examples |
 | ---------------   |  ---------                  | ---------       | ---------          | ---------  |  -------- | 
 | General info
@@ -47,7 +48,7 @@ This document contains info about:
 [chainso]:          https://chain.so/btc
 [chainso_test]:     https://chain.so/testnet/btc
 
-#Applications
+# Applications
 
 | Bitcoin Applications | Instance              |  Github |
 | ---------------      | ---------             | ------- |
@@ -59,7 +60,7 @@ This document contains info about:
 [proofofexistence]:     https://proofofexistence.com
 [proofofexistence_github]: https://github.com/proofofexistence/proofofexistence
 
-#Layer 2
+# Layer 2
 
 | Layer 2: lightning| Info
 | ---------------   | -----
