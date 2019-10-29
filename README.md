@@ -15,11 +15,12 @@ This document contains info about:
 | General info
 | --------------
 | [lopp]
+| [awesome_bitcoin]
 
 
 [lopp]: https://www.lopp.net/bitcoin-information.html
 
-
+[awesome_bitcoin]: https://github.com/igorbarinov/awesome-bitcoin
 
 | learn programming 
 | -------------
